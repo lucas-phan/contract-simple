@@ -1,4 +1,8 @@
 long 1
 long 2
 dung 1
+<<<<<<< HEAD
 long 3
+=======
+dung 2
+>>>>>>> c58f65b40df2438ed124e101875e2aafbc52a0de
